@@ -46,4 +46,5 @@ i am 10 years old and learning how to program so i made this (i dont own this ac
 <input type="submit" name="">
 <h1>this site was make by a ten year old kid who was learning how to code</1h>
    </body>
+  <h6>hope you enjoyedthe project even though its short</h6> 
  </html>
